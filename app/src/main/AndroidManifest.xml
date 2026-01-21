@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ReceitaApp">
         <activity
-            android:name=".MainActivity"
+            android:name=".presentation.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.ReceitaApp">
             <intent-filter>
